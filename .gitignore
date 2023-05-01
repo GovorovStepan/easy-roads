@@ -2,8 +2,8 @@ mongo-data/
 mongo/
 .expo/
 front/.expo
-front/node_modules
-back/node_modules
+front/node_modules/
+back/node_modules/
 back/.env
 
 # Build files
